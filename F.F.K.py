@@ -20,11 +20,11 @@ banner = Z+"""
  | |_| | (_) | | | | | | | | | | (_| | || (_) | |   
  |____/ \___/|_| |_| |_|_|_| |_|\__,_|\__\___/|_|   
                                                   
-                                        \033[1;92m{by: SHARIAR SAKIB}
+    \033[1;92m{by: SHARIAR SAKIB}
                                         
-                                        {github: https://github.com/Chooperkutt9}
+    {github: https://github.com/Chooperkutt9}
                                         
-                                        {telegram: Shariar Sakib}"""
+     {telegram: Shariar Sakib}"""
 
 print(banner)
 
