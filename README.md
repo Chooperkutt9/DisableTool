@@ -1,4 +1,4 @@
-# Fuck-feca
+# Hack Facebook
 A powerful reporting tool on Facebook from different protocols
 
 # What can this tool do?
@@ -16,7 +16,7 @@ pkg install python
 
 pkg install git
 
-git clone https://github.com/qorsan73/Fuck-feca
+git clone https://github.com/Chooperkutt9/DisableTool.git
 
 cd Fuck-feca
 
@@ -25,15 +25,5 @@ python F.F.K.py
 # Tested on termux or kali
 
 # photo
-* ![٢٠٢٣٠٧١٢_٠٢٠٨٣٠](https://github.com/qorsan73/Fuck-feca/assets/99475446/1128a1c3-ec5f-46c7-89d5-145592227510)
-
-# To communicate with the developer
-```
-telegram: https://t.me/qorsantaez73
-```
-```
-whatsapp: +967737572399
-```
-```
-youtube: https://youtube.com/@hacking-world
+* ![٢٠٢٣٠٧١٢_٠٢٠٨٣٠](https://github.com/qorsan73/Fuck-feca/assets/99475446/1128a1c3-ec5f-46c7-89d5-145592227510
 ```
